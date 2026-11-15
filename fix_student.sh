@@ -1,0 +1,2 @@
+sed -i 's/import androidx.compose.foundation.background/import androidx.compose.foundation.basicMarquee\nimport androidx.compose.foundation.background/g' app/src/main/java/com/example/ui/screens/StudentMainScreen.kt
+sed -i 's/import androidx.compose.material.icons.filled.Assignment/import androidx.compose.material.icons.filled.ArrowBack\nimport androidx.compose.material.icons.filled.Assignment/g' app/src/main/java/com/example/ui/screens/StudentMainScreen.kt

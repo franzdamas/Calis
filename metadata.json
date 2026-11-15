@@ -1,0 +1,6 @@
+{
+  "name": "Calis Mobile",
+  "description": "Offline BLE Classroom Management System for Calis Device",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

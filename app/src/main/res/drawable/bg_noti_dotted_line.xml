@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="24dp"
+    android:viewportWidth="108"
+    android:viewportHeight="24">
+    <!-- Dotted line with exactly 9 perfect circle dots matching the in-app screen exactly with 3dp radius and 12dp spacing -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 6,12 m -3,0 a 3,3 0 1,1 6,0 a 3,3 0 1,1 -6,0 M 18,12 m -3,0 a 3,3 0 1,1 6,0 a 3,3 0 1,1 -6,0 M 30,12 m -3,0 a 3,3 0 1,1 6,0 a 3,3 0 1,1 -6,0 M 42,12 m -3,0 a 3,3 0 1,1 6,0 a 3,3 0 1,1 -6,0 M 54,12 m -3,0 a 3,3 0 1,1 6,0 a 3,3 0 1,1 -6,0 M 66,12 m -3,0 a 3,3 0 1,1 6,0 a 3,3 0 1,1 -6,0 M 78,12 m -3,0 a 3,3 0 1,1 6,0 a 3,3 0 1,1 -6,0 M 90,12 m -3,0 a 3,3 0 1,1 6,0 a 3,3 0 1,1 -6,0 M 102,12 m -3,0 a 3,3 0 1,1 6,0 a 3,3 0 1,1 -6,0" />
+</vector>
