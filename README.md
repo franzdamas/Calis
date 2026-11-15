@@ -45,8 +45,8 @@ The two components communicate through Bluetooth Low Energy (BLE), allowing clas
 
 The repository contains the source-code files and related resources for the Calis system.
 
-- `Firmware/` – ESP32 firmware source code.
-- `Mobile-App/` – Reconstructed Android application source code and associated resources.
+- `CalisFirmware_v1.0.ino` – ESP32 firmware source code.
+- `STABLE PROTOTYPE` – Reconstructed Android application source code and associated resources.
 
 *Refer to the repository folders for the available source files.*
 
