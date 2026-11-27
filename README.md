@@ -1,6 +1,6 @@
 # Calis – Digital Classroom Management System
 
-**Calis** is a Digital Classroom Management System (DCMS) developed for Senior High School at Bagong Nayon II National High School (BNIINHS).
+**Calis** is a Supporting Digital Classroom Management System (SDCMS) developed for Senior High School at Bagong Nayon II National High School (BNIINHS).
 
 The system aims to support classroom management through digital attendance monitoring and task management using a dedicated ESP32-based device and an Android mobile application.
 
